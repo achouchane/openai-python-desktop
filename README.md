@@ -1,7 +1,7 @@
 # openai-python-desktop
 Python desktop app using OpenAI API
 
-AI Chatbot using OpenAI's GPT-3.5 Turbo
+AI Chatbot using OpenAI's GPT-3.5 Turbo or GPT-4
 This Python script creates a simple graphical user interface (GUI) for interacting with an AI chatbot powered by OpenAI's GPT-3.5 Turbo model. The chatbot engages in a conversation with the user through a text-based interface.
 
 Functionality
@@ -35,7 +35,7 @@ OpenAI API: Requires an API key to access GPT-3.5 Turbo.
 Python Libraries:
 os: Operating system interface for accessing environment variables.
 tkinter: GUI toolkit for creating the graphical user interface.
-openai: OpenAI Python library for interfacing with the GPT-3.5 Turbo model.
+openai: OpenAI Python library for interfacing with the GPT-3.5 Turbo model or another model like GPT-4
 Notes
 Make sure you have the necessary dependencies installed and configured before running the script.
 Respect OpenAI usage policies and guidelines when utilizing the GPT-3.5 Turbo model.
