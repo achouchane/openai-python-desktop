@@ -1,6 +1,6 @@
 # AI Chatbot using OpenAI's GPT-3.5 Turbo
 
-This Python script creates a simple graphical user interface (GUI) for interacting with an AI chatbot powered by OpenAI's GPT-3.5 Turbo model or GPT-4. The chatbot engages in a conversation with the user through a text-based interface.
+This Python script creates a simple graphical user interface (GUI) / desktop app for interacting with an AI chatbot powered by OpenAI's GPT-3.5 Turbo model or GPT-4. The chatbot engages in a conversation with the user through a text-based interface.
 
 ## Functionality
 
